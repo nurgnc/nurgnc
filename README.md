@@ -24,7 +24,7 @@
 <a href="https://medium.com/@nurgn"><img alt="Medium" src="https://img.shields.io/badge/Medium-000?style=flat&logo=medium&logoColor=white" /></a> &nbsp; 
 <br /><br />
 <p>
-  <a href="https://www.codewars.com/users/nurgenc">
+  <a href="https://www.codewars.com/users/nurgenc" target="_blank">
     <img src="https://www.codewars.com/users/nurgenc/badges/large" />
   </a>
 </p>
