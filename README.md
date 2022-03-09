@@ -23,6 +23,11 @@
 <a href="mailto:gencbedriyenur@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; 
 <a href="https://medium.com/@nurgn"><img alt="Medium" src="https://img.shields.io/badge/Medium-000?style=flat&logo=medium&logoColor=white" /></a> &nbsp; 
 <br /><br />
+<p>
+  <a href="https://www.codewars.com/users/nurgenc">
+    <img src="https://www.codewars.com/users/nurgenc/badges/large" />
+  </a>
+</p>
 
 <p>
 <a href="https://github.com/nurgnc">
@@ -30,5 +35,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nurgnc&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
 
 
